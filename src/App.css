@@ -1,0 +1,9 @@
+.Correct {
+  background: #00d397;
+  border: 0;
+}
+
+.Wrong {
+  background: #ff4a4a;
+  border: 0;
+}
